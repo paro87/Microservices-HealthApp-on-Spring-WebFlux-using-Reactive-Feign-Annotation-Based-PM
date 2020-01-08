@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="462e5fbe-5d64-45ec-a62d-deb99ce67b23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ViKRCTqRTnNjjfrnH5MJxeFG0q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/configuration-service/src/main/resources/config" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.paro.gatewayservice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PAROS\IdeaProjects\HealthAppOpenFeignAnnotationBased\configuration-service\src\main\resources\config" />
+      <recent name="C:\Users\PAROS\IdeaProjects\HealthAppOpenFeignAnnotationBased\hospital-service\src\main\java\com\paro\hospitalservice" />
+      <recent name="C:\Users\PAROS\IdeaProjects\HealthAppOpenFeignAnnotationBased\department-service\src\main\java\com\paro\departmentservice" />
+      <recent name="C:\Users\PAROS\IdeaProjects\HealthAppOpenFeignAnnotationBased\hospital-service\src\main\resources" />
+      <recent name="C:\Users\PAROS\IdeaProjects\HealthAppOpenFeignAnnotationBased\department-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DepartmentServiceApplication">
+    <configuration name="ConfigurationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="configuration-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.configurationservice.ConfigurationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="department-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.departmentservice.DepartmentServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.discoveryservice.DiscoveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hospital-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.hospitalservice.HospitalServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixdashboardServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrixdashboard-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.hystrixdashboardservice.HystrixdashboardServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatientServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="patient-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.patientservice.PatientServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurbineServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="turbine-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paro.turbineservice.TurbineServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="462e5fbe-5d64-45ec-a62d-deb99ce67b23" name="Default Changelist" comment="" />
+      <created>1577730464120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577730464120</updated>
+      <workItem from="1577730468478" duration="3919000" />
+      <workItem from="1578074999706" duration="11941000" />
+      <workItem from="1578161627725" duration="598000" />
+      <workItem from="1578210183232" duration="3826000" />
+      <workItem from="1578247808015" duration="3669000" />
+      <workItem from="1578298256917" duration="1404000" />
+      <workItem from="1578309707890" duration="1152000" />
+      <workItem from="1578333203619" duration="12921000" />
+      <workItem from="1578385040930" duration="941000" />
+      <workItem from="1578386811177" duration="694000" />
+      <workItem from="1578421242057" duration="9964000" />
+      <workItem from="1578487267073" duration="3124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Project_Structure" timestamp="1577730479890">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1577730479890" />
+    <state x="777" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1578425022144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="777" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1578425022144" />
+    <state width="1237" height="234" key="GridCell.Tab.0.bottom" timestamp="1578431516360">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="234" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578431516360" />
+    <state width="1237" height="234" key="GridCell.Tab.0.center" timestamp="1578431516360">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="234" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578431516360" />
+    <state width="1237" height="234" key="GridCell.Tab.0.left" timestamp="1578431516360">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="234" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578431516360" />
+    <state width="1237" height="234" key="GridCell.Tab.0.right" timestamp="1578431516360">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="234" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578431516360" />
+    <state width="1237" height="234" key="GridCell.Tab.1.bottom" timestamp="1578431516361">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="234" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578431516361" />
+    <state width="1237" height="234" key="GridCell.Tab.1.center" timestamp="1578431516360">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="234" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1578431516360" />
+    <state width="1237" height="234" key="GridCell.Tab.1.left" timestamp="1578431516360">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="234" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1578431516360" />
+    <state width="1237" height="234" key="GridCell.Tab.1.right" timestamp="1578431516360">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="234" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1578431516360" />
+    <state x="342" y="0" key="Maven.ArtifactSearchDialog" timestamp="1578341320903">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="342" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1578341320903" />
+    <state x="181" y="66" key="new project wizard" timestamp="1578334796803">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="181" y="66" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1578334796803" />
+  </component>
+</project>
